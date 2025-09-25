@@ -19,7 +19,7 @@ public class PlayerController2 : MonoBehaviour
     public AudioSource winSound;
     public AudioSource loseMusic;
 
-    private float timeRemaining = 60f;
+    private float timeRemaining = 180f;
     private bool timerIsRunning = true;
     private bool isGameOver = false;
 
